@@ -1,6 +1,6 @@
 # DeepLearning
 
-**主要内容为（深度）强化学习、深度学习与机器人学。**
-* 主要包含（深度）强化学习、深度学习、模仿学习、元学习和机器人学的理论；
-* （深度）强化学习、模仿学习的应用；
-* （深度）强化学习、模仿学习与机械臂的结合等；
+**The main content is (deep) reinforcement learning, deep learning and robotics.**
+* Mainly includes the theories of (deep) reinforcement learning, deep learning, imitation learning, meta-learning and robotics
+* Applications of (deep) reinforcement learning and imitation learning
+* The combination of (deep) reinforcement learning, imitation learning and robotic arms, etc.
